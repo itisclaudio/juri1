@@ -1,0 +1,1453 @@
+[
+{
+    "model": "juri.casacion",
+    "pk": 67,
+    "fields": {
+        "numero": "CAS. 2620-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Entel Perú Sociedad Anónima ",
+        "demandado": "Municipalidad Distrital de Magdalena del Mar",
+        "parte": null,
+        "casante": "Entel Perú Sociedad Anónima ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "LAMA MORE",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86681 - 86682",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-26",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 68,
+    "fields": {
+        "numero": "CAS. 1826-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Almacenes Corporativos Sociedad Anónima",
+        "demandado": "Superintendencia Nacional de Aduanas y Administración Tributaria - SUNAT; Ministerio de Economía y Finanzas - Tribunal Fiscal; Intendencia de Aduana Marítima del Callao",
+        "parte": null,
+        "casante": "Superintendencia Nacional de Aduanas y Administración Tributaria - SUNAT",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; TOLEDO TORIBIO; DE LA ROSA BEDRIÑANA; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86682 - 86683",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-12",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 69,
+    "fields": {
+        "numero": "CAS. 5021-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Manuel Antonio Ato del Avellanal Carrera",
+        "demandado": "Ministerio de Economía y Finanzas - Tribunal Fiscal; Superintendencia Nacional de Aduanas y Administración Tributaria - SUNAT",
+        "parte": null,
+        "casante": "Manuel Antonio Ato del Avellanal Carrera",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86683 - 86684",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-31",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 70,
+    "fields": {
+        "numero": "CAS. 4049-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Recide Sociedad Anónima Cerrada ",
+        "demandado": "Servicios de Parques de Lima - SERPAR",
+        "parte": null,
+        "casante": "Servicios de Parques de Lima - SERPAR",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "LAMA MORE",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86684 - 86685",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-29",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 71,
+    "fields": {
+        "numero": "CAS. 19344-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "National Association of Realtors ",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI ",
+        "parte": null,
+        "casante": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86685 - 86686",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-17",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 72,
+    "fields": {
+        "numero": "CAS. 17761-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Municipalidad Distrital de Bellavista",
+        "demandado": "Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT ",
+        "parte": null,
+        "casante": "Municipalidad Distrital de Bellavista",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86686 - 86687",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-01",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 73,
+    "fields": {
+        "numero": "CAS. 1667-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Natural Protein Technologies Sociedad Anónima Cerrada",
+        "demandado": "Ministerio de la Producción",
+        "parte": null,
+        "casante": "Natural Protein Technologies Sociedad Anónima Cerrada",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86687",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-22",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 74,
+    "fields": {
+        "numero": "CAS. 18671-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Casa Banchero Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Casa Banchero Sociedad Anónima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86687 - 86689",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-15",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 75,
+    "fields": {
+        "numero": "CAS. 6953-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Mario Vicente Martel Corzo ",
+        "demandado": "Municipalidad Distrital de Miraflores",
+        "parte": null,
+        "casante": "Municipalidad Distrital de Miraflores",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86689",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-31",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 76,
+    "fields": {
+        "numero": "CAS. 8357-2015 LIMA",
+        "materia": "Proceso Contencioso Administrativo",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "TEXTILCO Sociedad Anónima Cerrada",
+        "demandado": "Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT",
+        "parte": null,
+        "casante": "TEXTILCO Sociedad Anónima Cerrada",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "LAMA MORE",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86689 - 86691",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-07",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 77,
+    "fields": {
+        "numero": "CAS. 10983-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Pacífico Peruano Suiza Compañía de Seguros y Reaseguros Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Pacífico Peruano Suiza Compañía de Seguros y Reaseguros Sociedad Anónima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "WALDE JÁUREGUI",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86691",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-10-11",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 78,
+    "fields": {
+        "numero": "CAS. 16940-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Empresa Regional de Servicio Público de Electricidad Electro Norte Medio Sociedad Anónima - HIDRANDINA ",
+        "demandado": "Organismo Supervisor de la Inversión en Energía y Minería - OSINERGMIN",
+        "parte": null,
+        "casante": "Empresa Regional de Servicio Público de Electricidad Electro Norte Medio Sociedad Anónima - HIDRANDINA ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "886691 - 8692",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-10-27",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 79,
+    "fields": {
+        "numero": "CAS. 10376-2016 AYACUCHO",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Gobierno Regional de Ayacucho",
+        "demandado": "Municipalidad Provincial de Huamanga ",
+        "parte": null,
+        "casante": "Gobierno Regional de Ayacucho",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86692 - 86693",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-10-03",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 80,
+    "fields": {
+        "numero": "CAS. 7676-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Servicios y Promociones de Salud Sociedad Anónima Cerrada",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Servicios y Promociones de Salud Sociedad Anónima Cerrada",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86693",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 81,
+    "fields": {
+        "numero": "CAS. 9125-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT ",
+        "demandado": "Ministerio de Economía y Finanzas - Tribunal Fiscal",
+        "parte": null,
+        "casante": "Ministerio de Economía y Finanzas",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86694",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-26",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 82,
+    "fields": {
+        "numero": "CAS. 19408-2015 LIMA",
+        "materia": "Nulidad de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Mapfre Perú Compañía de Seguros y Reaseguros Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI; Cecilia Madeleyne Blanco Chávez",
+        "parte": null,
+        "casante": "Mapfre Perú Compañía de Seguros y Reaseguros Sociedad Anónima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "WALDE JÁUREGUI",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86694 - 86696",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 83,
+    "fields": {
+        "numero": "CAS. 19645-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Panificadora Bimbo del Perú Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Panificadora Bimbo del Perú Sociedad Anónima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86696 - 86697",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-22",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 84,
+    "fields": {
+        "numero": "CAS. 91-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Servicios Aéreos De Los Andes Sociedad Anónima Cerrada ",
+        "demandado": "Ministerio de Economía y Finanzas - Tribunal Fiscal; Otros",
+        "parte": null,
+        "casante": "Servicios Aéreos De Los Andes Sociedad Anónima Cerrada ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86697 - 86698",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-22",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 85,
+    "fields": {
+        "numero": "CAS. 18294-2015 LAMBAYEQUE",
+        "materia": "Nulidad de Acto Jurídico y otro",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "José Eugenio Perez Valdera ",
+        "demandado": "Juan Alberto Tuñoque Baldera; Otro",
+        "parte": null,
+        "casante": "José Eugenio Perez Valdera ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86698",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-13",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 86,
+    "fields": {
+        "numero": "CAS. 19909-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Asociación Country Club de Villa y Lotizaciones de la Encantada de Villa",
+        "demandado": "Municipalidad Distrital de Chorrillos",
+        "parte": null,
+        "casante": "Asociación Country Club de Villa y Lotizaciones de la Encantada de Villa",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86698 - 86699",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-27",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 87,
+    "fields": {
+        "numero": "CAS. 11552-2015 CAÑETE",
+        "materia": "Interdicto de retener",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Yanet Elizabeth Caro Martínez",
+        "demandado": "Hipólito Moisés Mogrovejo Motta",
+        "parte": null,
+        "casante": "Yanet Elizabeth Caro Martínez",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "WONG ABAD",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86699 - 86700",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-12",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 88,
+    "fields": {
+        "numero": "CAS. 1442-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "ICOM Incorporated ",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; DE LA ROSA BEDRIÑANA; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86700 - 86701",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 89,
+    "fields": {
+        "numero": "CAS. 6174-2014 LIMA",
+        "materia": "Obligación de Dar Suma de Dinero, Pago y Actualización de Bonos de la Deuda Agraria y otros",
+        "sumilla": "La Motivación de las resoluciones judiciales comprende, en primer lugar, los elementos y razones de juicio que motivación ha de estar fundada en Derecho, carga que no queda cumplida con la mera emisión de una declaración de voluntad en un sentido u otro, sino que debe ser consecuencia de una exigencia racional del ordenamiento, y no fruto de la arbitrariedad.",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Iris María Rosa De Aliaga Fernandini de Iglesias ",
+        "demandado": "Ministerio de Economía y Finanzas",
+        "parte": null,
+        "casante": "Ministerio de Economía y Finanzas",
+        "es_precedente": false,
+        "fallo": 4,
+        "juezponente_nombre": "TELLO GILARDI",
+        "jueces_nombres": "TELLO GILARDI; VINATEA MEDINA; MORALES PARRAGUEZ; RODRÍGUEZ CHÁVEZ; RUEDA FERNÁNDEZ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86701 - 86703",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2015-07-07",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 90,
+    "fields": {
+        "numero": "CAS. 3672-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Punto Visual Sociedad Anónima ",
+        "demandado": "Municipalidad Metropolitana de Lima",
+        "parte": null,
+        "casante": "Punto Visual Sociedad Anónima ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86703",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-24",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 91,
+    "fields": {
+        "numero": "CAS. 7789-2016 LIMA",
+        "materia": "Nulidad de Acto Jurídico",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Rómulo Bravo Fuertes ",
+        "demandado": "Diana del Pilar Gonzáles Motta de Vargas; Otro",
+        "parte": null,
+        "casante": "Diana del Pilar Gonzáles Motta de Vargas",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "LAMA MORE",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86703 - 86705",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-19",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 92,
+    "fields": {
+        "numero": "CAS. 8304-2016 HUANUCO",
+        "materia": "Prescripción Adquisitiva de Dominio",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "María Bonifacio Viuda De Tarazona",
+        "demandado": "Serafín Beteta León; Otro",
+        "parte": null,
+        "casante": "María Bonifacio Viuda De Tarazona",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86705 - 86706",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 93,
+    "fields": {
+        "numero": "CAS. 9450-2014 LIMA",
+        "materia": "Pago de los bonos de la deuda agraria",
+        "sumilla": "La actualización de los bonos de la deuda agraria e intereses, se efectuará aplicando el criterio valorista o el valor actualizado de los bonos, consistente en la conversión de la obligación principal impago de tales bonos en dólares americanos, desde la fecha de la primera vez en que se dejó de atender el pago de los cupones de dicho bono, más la tasa de interés de los bonos del Tesoro Americano.",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Doris Judith Aicardi Olivares ",
+        "demandado": "Ministerio de Economía y Finanzas; Otro",
+        "parte": null,
+        "casante": "Ministerio de Economía y Finanzas",
+        "es_precedente": false,
+        "fallo": 4,
+        "juezponente_nombre": "RODRÍGUEZ CHÁVEZ",
+        "jueces_nombres": "TELLO GILARDI; VINATEA MEDINA; RUEDA FERNÁNDEZ; LAMA MORE",
+        "juezdiscordia_nombre": "RODRÍGUEZ CHÁVEZ",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86706 - 86714",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2015-10-27",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3,
+            9
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 94,
+    "fields": {
+        "numero": "CAS. 8280-2016 TACNA",
+        "materia": "Nulidad de Acto Jurídico y otros",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Dionicio Lanchipa Mamani",
+        "demandado": "Comunidad Campesina de de Ancomarca; Dirección Regional de Agricultura de Tacna",
+        "parte": null,
+        "casante": "Dionicio Lanchipa Mamani",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86714 - 86715",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 95,
+    "fields": {
+        "numero": "CAS. 2791-2016 UCAYALI",
+        "materia": "Desalojo por Ocupación Precaria",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "César Augusto Arriola Benedetti",
+        "demandado": "Eugenio Félix Barzola Yaringaño",
+        "parte": null,
+        "casante": "César Augusto Arriola Benedetti",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86715 - 86716",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-02",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 96,
+    "fields": {
+        "numero": "CAS. 3266-2014 CAJAMARCA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "La discusión relativa a si una Unidad de Gestión Educativa Local (UGEL) resulta competente para constituir un Comité de Administración de Fondo de Asistencia y Estímulo de los trabajadores del sector educación (CAFAE), constituye un debate de puro derecho, en que mas allá de las pruebas ofrecidas, corresponde resolverse en base a las disposiciones sobre la materia, especialmente las referidas a determinar si las Unidades de Gestión Educativa Local, constituyen o no, un pliego presupuestario",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Fondo de Asistencia y Estímulo de los Trabajadores del Sector Educación - CAFAE SE",
+        "demandado": "Comité de Administración del Fondo de Asistencia y Estimulo de la Unidad de Gestión Educativa Local de Jaén",
+        "parte": null,
+        "casante": "Comité de Administración del Fondo de Asistencia y Estimulo de la Unidad de Gestión Educativa Local de Jaén",
+        "es_precedente": false,
+        "fallo": 4,
+        "juezponente_nombre": "LAMA MORE",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86716-86718",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-03-22",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 97,
+    "fields": {
+        "numero": "CAS. 19753-2015 LAMBAYEQUE",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Grifo San Enrique Sociedad Comercial de Responsabilidad Limitada",
+        "demandado": "Organismo Supervisor de la Inversión en Energía y Minería - OSINERGMIN",
+        "parte": null,
+        "casante": "Grifo San Enrique Sociedad Comercial de Responsabilidad Limitada",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86718 - 86719",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-23",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 98,
+    "fields": {
+        "numero": "CAS. 5245-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Leoncio Raúl Villalobos Picho",
+        "demandado": "Municipalidad Metropolitana de Lima",
+        "parte": null,
+        "casante": "Municipalidad Metropolitana de Lima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86719 - 86720",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-05",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 99,
+    "fields": {
+        "numero": "CAS. 1350-2015 MOQUEGUA",
+        "materia": "Prescripción Adquisitiva de Dominio",
+        "sumilla": "La Sala Superior considera que el demandante no habría poseído en calidad de propietario sino tan solo en calidad de poseedor en virtud del título que le otorgó la Asociación demandada; sin embargo, omite en su análisis, circunstancias que resultan relevantes para la resolución de la controversia, como es comprobar si la posesión fue concedida a título temporal, condición esencial para considerar que existe posesión inmediata de acuerdo a lo previsto por el artículo 905 del Código Civil; así como, examinar si la existencia de un contrato de compraventa y el consiguiente compromiso de pago de un precio puede resultar compatible con la afirmación de existir posesión inmediata. ",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Cecilio Palomino Manzano",
+        "demandado": "Asociación Casa Huerta Los Olivares",
+        "parte": null,
+        "casante": "Cecilio Palomino Manzano",
+        "es_precedente": false,
+        "fallo": 4,
+        "juezponente_nombre": "WONG ABAD",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86719 - 86722",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-13",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 100,
+    "fields": {
+        "numero": "CAS. 11896-2016 HUAURA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Marieta Caritimari Arirama",
+        "demandado": "Municipalidad Provincial de Huaral",
+        "parte": null,
+        "casante": "Marieta Caritimari Arirama",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "WALDE JÁUREGUI",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86722",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-10-21",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 101,
+    "fields": {
+        "numero": "CAS. 7072-2016 LIMA SUR",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Asociación de Granjeros El Triángulo",
+        "demandado": "Municipalidad Distrital de Villa El Salvador ",
+        "parte": null,
+        "casante": "Asociación de Granjeros El Triángulo",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86722 - 86723",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-14",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 102,
+    "fields": {
+        "numero": "CAS. 8898-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Superintendencia Nacional de Aduanas y Administración Tributaria - SUNAT ",
+        "demandado": "Ministerio de Economía y Finanzas - Tribunal Fiscal",
+        "parte": null,
+        "casante": "Ministerio de Economía y Finanzas - Tribunal Fiscal",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86723 - 86724",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-22",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 103,
+    "fields": {
+        "numero": "CAS. 8165-2016 ICA",
+        "materia": "División y Partición de Bienes",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Eulogio Fermín Figueroa Cabrera; Otro",
+        "demandado": "Patrocinio Figueroa Cabrera",
+        "parte": null,
+        "casante": "Patrocinio Figueroa Cabrera",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86724 - 86725",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-20",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 104,
+    "fields": {
+        "numero": "CAS. 3324-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT",
+        "demandado": "Ministerio de Economía y Finanzas - Tribunal Fiscal",
+        "parte": null,
+        "casante": "Ministerio de Economía y Finanzas - Tribunal Fiscal",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86725 - 86726",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-23",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 105,
+    "fields": {
+        "numero": "CAS. 3310-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "JOSANTEX Sociedad Anónima Cerrada ",
+        "demandado": "Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT",
+        "parte": null,
+        "casante": "JOSANTEX Sociedad Anónima Cerrada ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86726",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-23",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 106,
+    "fields": {
+        "numero": "CAS. 6610-2016 LAMBAYEQUE",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Segundo Celestino Zulueta Rojas; Juana Saldaña de Zulueta",
+        "demandado": "Municipalidad Provincial de Jaén",
+        "parte": null,
+        "casante": "Segundo Celestino Zulueta Rojas; Juana Saldaña de Zulueta",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86726 - 86727",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-08-29",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 107,
+    "fields": {
+        "numero": "CAS. 15155-2015 LIMA NORTE",
+        "materia": "Accesión de Propiedad por Edificación",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Promotora Inmobiliaria Zamor Sociedad Anónima",
+        "demandado": "Moisés Felipe Castilla Salguero",
+        "parte": null,
+        "casante": "Moisés Felipe Castilla Salguero",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86727 - 86728",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-05-13",
+        "texto": "",
+        "activo": true,
+        "area": [
+            3
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 108,
+    "fields": {
+        "numero": "CAS. 6971-2016 CALLAO",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Servicio de Agua Potable y Alcantarillado de Lima - SEDAPAL ",
+        "demandado": "Municipalidad Provincial del Callao",
+        "parte": null,
+        "casante": "Municipalidad Provincial del Callao",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86728 - 86729",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-13",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 109,
+    "fields": {
+        "numero": "CAS. 19776-2015 MOQUEGUA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": " Yaneth Carolina Molina Zambrano",
+        "demandado": "Municipalidad Provincial de Ilo",
+        "parte": null,
+        "casante": "Municipalidad Provincial de Ilo",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86729 - 86730",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-23",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 110,
+    "fields": {
+        "numero": "CAS. 20233-2015 CUSCO",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Berciflor Rodríguez Tananta",
+        "demandado": "Municipalidad Distrital de Wanchaq",
+        "parte": null,
+        "casante": "Berciflor Rodríguez Tananta",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86730",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-07-06",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 111,
+    "fields": {
+        "numero": "CAS. 11276-2016 LIMA",
+        "materia": "Impugnación de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Alejandrina Beneranda Vargas Pastor Viuda de Chiri",
+        "demandado": "Superintendencia Nacional de Servicios de Saneamiento - SUNASS ",
+        "parte": null,
+        "casante": "Superintendencia Nacional de Servicios de Saneamiento - SUNASS ",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86730 - 86731",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-10-12",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 112,
+    "fields": {
+        "numero": "CAS. 9505-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Empresa Agraria Chiquitoy Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "RUEDA FERNÁNDEZ",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86731 - 86732",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-28",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 113,
+    "fields": {
+        "numero": "CAS. 10358-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Ministerio del Interior",
+        "demandado": "Superintendencia Nacional de Bienes Estatales - SBN; Otro",
+        "parte": null,
+        "casante": "Ministerio del Interior",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86732 - 86733",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-03-28",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 114,
+    "fields": {
+        "numero": "CAS. 5566-2016 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Saga Falabella Sociedad Anónima",
+        "demandado": "Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual - INDECOPI",
+        "parte": null,
+        "casante": "Saga Falabella Sociedad Anónima",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "VINATEA MEDINA",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO; MALCA GUAYLUPO ",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86733 - 86734",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-05",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 115,
+    "fields": {
+        "numero": "CAS. 8289-2016 LIMA",
+        "materia": "Nulidad de Resolución Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Centro de Conciliación de la Municipalidad Provincial del Callao",
+        "demandado": "Ministerio de Justicia",
+        "parte": null,
+        "casante": "Centro de Conciliación de la Municipalidad Provincial del Callao",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "WONG ABAD",
+        "jueces_nombres": "LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; WONG ABAD; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86734 - 86735",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-09-27",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+},
+{
+    "model": "juri.casacion",
+    "pk": 116,
+    "fields": {
+        "numero": "CAS. 17062-2015 LIMA",
+        "materia": "Acción Contencioso Administrativa",
+        "sumilla": "",
+        "extracto": "",
+        "sala": 6,
+        "demandante": "Compañía Minera Atacocha Sociedad Anónima Abierta",
+        "demandado": "Organismo de Evaluación y Fiscalización Ambiental - OEFA",
+        "parte": null,
+        "casante": "Compañía Minera Atacocha Sociedad Anónima Abierta",
+        "es_precedente": false,
+        "fallo": 1,
+        "juezponente_nombre": "TOLEDO TORIBIO",
+        "jueces_nombres": "WALDE JÁUREGUI; LAMA MORE; VINATEA MEDINA; RUEDA FERNÁNDEZ; TOLEDO TORIBIO",
+        "juezdiscordia_nombre": "",
+        "boletin": "Sentencias en Casación N° 722-A Año XXI",
+        "pagina": "86735 - 86736",
+        "fecha_inicio": null,
+        "fecha_sentencia": "2016-06-06",
+        "texto": "",
+        "activo": true,
+        "area": [
+            12
+        ]
+    }
+}
+]

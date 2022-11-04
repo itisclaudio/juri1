@@ -1,0 +1,112 @@
+{% extends '_base.html' %}
+{% block title %}Casacion {{ casacion.numero }}{% endblock %}
+{% load crispy_forms_tags %}
+{% block content %}
+<br/>
+<h1 align="center">Casacion {{ casacion.numero }}</h1>
+
+
+<div class="d-grid gap-2 mx-auto">
+
+{% if messages %}
+    {% for message in messages %}
+    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+      {{ message }}
+    </div>
+    {% endfor %}
+{% endif %}
+
+{% if casacion %}
+<table class="table table-hover table-row-dashed">
+  <tbody>
+  <tr>
+    <th>Numero</th>
+    <td>{{ casacion.numero }}</td>
+  </tr>
+  <tr>
+    <th>Materia</th>
+    <td>{{ casacion.materia }}</td>
+  </tr>
+  <tr>
+    <th>Sumilla</th>
+    <td>{{ casacion.sumilla }}</td>
+  </tr>
+  <tr>
+    <th>Extracto</th>
+    <td>{{ casacion.extracto }}</td>
+  </tr>
+  <tr>
+    <th>Sala</th>
+    <td>{{ casacion.sala }}</td>
+  </tr>
+  <tr>
+    <th>Demandante</th>
+    <td>{{ casacion.demandante }}</td>
+  </tr>
+  <tr>
+    <th>Demandado</th>
+    <td>{{ casacion.demandado }}</td>
+  </tr>
+  <tr>
+    <th>Parte</th>
+    <td>{{ casacion.parte }}</td>
+  </tr>
+  <tr>
+    <th>Casante</th>
+    <td>{{ casacion.casante }}</td>
+  </tr>
+  <tr>
+    <th>Precedente</th>
+    <td>{% if casacion.es_precedente %}Si{% else %}No{% endif %}</td>
+  </tr>
+  <tr>
+    <th>Fallo</th>
+    <td>{{ casacion.get_fallo_display }}</td>
+  </tr>
+  <tr>
+    <th>Juez Ponente</th>
+    <td>{{ casacion.juezponente_nombre }}</td>
+  </tr>
+  <tr>
+    <th>Jueces</th>
+    <td>{{ casacion.jueces_nombres }}</td>
+  </tr>
+  <tr>
+    <th>Voto Discordia</th>
+    <td>{{ casacion.juezdiscordia_nombre }}</td>
+  </tr>
+  <tr>
+    <th>Area</th>
+    <td>
+      {% for obj in casacion.area.all %}
+        {{ obj.nombre }}
+      {% endfor %}</td>
+  </tr>
+  <tr>
+    <th>Boletin</th>
+    <td>{{ casacion.boletin }}</td>
+  </tr>
+  <tr>
+    <th>Pagina</th>
+    <td>{{ casacion.pagina }}</td>
+  </tr>
+  <tr>
+    <th>Inicio Proceso</th>
+    <td>{{ casacion.fecha_inicio }}</td>
+  </tr>
+  <tr>
+    <th>Fecha Sentencia</th>
+    <td>{{ casacion.fecha_sentencia|date:'Y-m-d' }}</td>
+  </tr>
+  <tr>
+    <th>Texto</th>
+    <td>{{ casacion.texto }}</td>
+  </tr>
+  </tbody>
+</table>
+{% endif %}
+
+
+</div>
+
+{% endblock %}

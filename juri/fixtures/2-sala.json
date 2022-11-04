@@ -1,0 +1,65 @@
+[
+{
+    "model": "juri.sala",
+    "pk": 1,
+    "fields": {
+        "nombre": "Sala Civil Permanente"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 2,
+    "fields": {
+        "nombre": "Sala Civil Transitoria"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 3,
+    "fields": {
+        "nombre": "Sala Penal Permanente"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 4,
+    "fields": {
+        "nombre": "Primera Sala Penal Transitoria"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 5,
+    "fields": {
+        "nombre": "Segunda Sala Penal Transitoria"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 6,
+    "fields": {
+        "nombre": "Sala de Derecho Constitucional y Social Permanente"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 7,
+    "fields": {
+        "nombre": "Primera Sala de Derecho Constitucional y Social Transitoria"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 8,
+    "fields": {
+        "nombre": "Segunda Sala de Derecho Constitucional y Social Transitoria"
+    }
+},
+{
+    "model": "juri.sala",
+    "pk": 9,
+    "fields": {
+        "nombre": "Tercera Sala de Derecho Constitucional y Social Transitoria"
+    }
+}
+]

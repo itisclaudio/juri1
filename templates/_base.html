@@ -1,0 +1,66 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
+    <!-- jquery -->
+	<script type="text/javascript" src="{% static 'dist/jquery/jquery-1.12.4.min.js' %}"></script>
+    <title>{% block title %}{% endblock %}</title>
+  </head>
+  <body>
+  <!-- Navbar - START -->
+  <nav class="navbar navbar-expand-lg navbar-light navbar-main">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{% url 'juri:index' %}" style="padding-top: 0;padding-bottom: 0;">
+      <img src="{% static '/images/ejr-logo.svg' %}" alt="" height="36" class="d-inline-block align-text-top">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <a class="navbar-brand" href="#">Juri</a>
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle btn btn-outline-light" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" type="button">
+            Casacion
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="{% url 'juri:casaciones' %}">Todas la Casaciones</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{% url 'profiles:contactanos' %}">Contactanos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Busqueda Avanzada</a>
+        </li>
+        <li class="nav-item"></li>
+        {% if request.user.is_authenticated %}
+          <a class="nav-link" href="{% url 'profiles:logout' %}">Logout</a>
+        {% else %}
+          <a class="nav-link" href="{% url 'profiles:login' %}">Login</a>
+        {% endif %}
+        </li>
+      </ul>
+      <form class="d-flex" action="/searchquick/" method="GET">
+        <input class="form-control me-2" placeholder="Buscar Casacion" name="search">
+        <button class="btn btn-outline-success" type="submit">Buscar</button>
+      </form>
+    </div>
+  </div>
+  </nav>
+  <!-- Navbar - END -->
+ <div class="container">
+    {% block content %}{% endblock %}
+  </div>
+    <!-- Bootstrap Bundle js -->
+	<script type="text/javascript" src="{% static 'dist/bootstrap/js/bootstrap.min.js' %}"></script>
+  </body>
+{% block extra-bottom %}{% endblock %}
+</html>

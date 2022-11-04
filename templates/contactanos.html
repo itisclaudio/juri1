@@ -1,0 +1,28 @@
+{% extends '_base.html' %}
+{% block title %}Contactanos{% endblock %}
+{% load crispy_forms_tags %}
+{% block content %}
+<br/>
+<h1 align="center">Contactanos</h1>
+<div style="padding:30px">
+
+<div class="highlight">
+<div class="d-grid gap-2 col-6 mx-auto">
+
+  {% if messages %}
+      {% for message in messages %}
+      <div class="alert alert-{{ message.tags }}" role="alert">
+        {{ message }}
+      </div>
+      {% endfor %}
+  {% endif %}
+
+  <form method="post" class="my-class">
+    {% csrf_token %}
+    {{ form|crispy }}
+    <br>
+    <button type="submit" id="save_button" class="btn btn-primary">Enviar</button>
+  </form>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,98 @@
+[
+{
+    "model": "juri.area",
+    "pk": 2,
+    "fields": {
+        "nombre": "Constitucional",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 3,
+    "fields": {
+        "nombre": "Civil",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 4,
+    "fields": {
+        "nombre": "Laboral",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 5,
+    "fields": {
+        "nombre": "Penal",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 6,
+    "fields": {
+        "nombre": "Arbitraje",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 7,
+    "fields": {
+        "nombre": "Societario",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 8,
+    "fields": {
+        "nombre": "Tributario",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 9,
+    "fields": {
+        "nombre": "Financiero",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 10,
+    "fields": {
+        "nombre": "Concursal",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 11,
+    "fields": {
+        "nombre": "Propiedad Industrial",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 12,
+    "fields": {
+        "nombre": "Administrativo",
+        "activo": true
+    }
+},
+{
+    "model": "juri.area",
+    "pk": 13,
+    "fields": {
+        "nombre": "Internacional",
+        "activo": true
+    }
+}
+]
