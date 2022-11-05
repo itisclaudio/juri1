@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-46h@h-+5h%8vz!s-_j%q30b7t$@t576h9bq%#m@y6a1c%7_543'
+SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-46h@h-+5h%8vz!s-_j%q30b7t$@t576h9bq%#m@y6a1c%7_543')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -75,19 +75,17 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'project.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'juri',
-        'USER': 'root',
-        'PASSWORD': 'claudio',
+        'ENGINE': os.environ.get('DB_ENGINE'),
+        'NAME': os.environ.get('DB_NAME'),
+        'USER': os.environ.get('DB_USER'),
+        'PASSWORD': os.environ.get('DB_PASSWORD'),
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -135,9 +133,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # For crispy form
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-ENV_CHECKER = os.environ.get('ENV')
-print(f'type ENV_CHECKER: {type(ENV_CHECKER)}')
-if ENV_CHECKER == 'dev':
-    print(f'ENV_CHECKER: {ENV_CHECKER}')
+SK1 = os.environ.get('SECRET_KEY')
+print(f"SK1: {SK1}")
 
-print(f"os.environ.get.ENV: {os.environ.get('ENV')}")
+# If working locally, create a enviroment variable ENV=dev
+ENV_CHECKER = os.environ.get('ENV')
+if ENV_CHECKER == 'dev':
+    from .settings_dev import *
+else:
+    from .settings_prod import *
