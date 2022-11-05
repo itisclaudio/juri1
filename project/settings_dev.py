@@ -15,5 +15,3 @@ DATABASES = {
         'PASSWORD': os.environ.get('DB_PASSWORD'),
     }
 }
-
-STATICFILES_DIRS = [BASE_DIR / "static"]
