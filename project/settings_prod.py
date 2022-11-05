@@ -16,3 +16,5 @@ DATABASES = {
         'HOST': os.environ.get('DB_HOST'),
     }
 }
+
+STATIC_ROOT = os.environ.get('STATIC_ROOT')
