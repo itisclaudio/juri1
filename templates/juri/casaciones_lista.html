@@ -58,7 +58,7 @@
         <td>{% if obj.es_precedente %}Si{% else %}No{% endif %}</td>
         <td>{{ obj.get_fallo_display }}</td>
         <td>{{ obj.juezponente_nombre }}</td>
-        <td>{{ obj.jueces_nombres }}</td>
+        <td>{{ obj.jueces_nombres|truncatechars:20 }}</td>
         <td>{{ obj.juezdiscordia_nombre }}</td>
         <td>
           {% for obj in obj.area.all %}

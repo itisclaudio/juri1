@@ -120,9 +120,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # For crispy form
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-SK1 = os.environ.get('SECRET_KEY')
-print(f"SK1: {SK1}")
-
 # If working locally, create a enviroment variable ENV=dev
 ENV_CHECKER = os.environ.get('ENV')
 if ENV_CHECKER == 'dev':
